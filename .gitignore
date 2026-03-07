@@ -1,0 +1,12 @@
+.env
+*.env
+!.env.example
+private_key.env
+node_modules/
+__pycache__/
+*.pyc
+dist/
+risk_scorer.onnx
+.vercel/
+.vite/
+.vercel
